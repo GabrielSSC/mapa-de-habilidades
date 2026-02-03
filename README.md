@@ -44,7 +44,7 @@ Este projeto foi desenvolvido como parte do curso de Inteligência Artificial da
 
 ## Etapa 3 – Mapa Visual de Habilidades
 
-![Mapa de Habilidades](link-da-imagem-no-repo)
+![Mapa de Habilidades]([link-da-imagem-no-repo](https://gabrielssc.github.io/mapa-de-habilidades/))
 
 ---
 
